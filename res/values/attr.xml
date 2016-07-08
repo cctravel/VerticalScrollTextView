@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="VerticalScrollTextView">
+        <attr name="scrollspeed" format="integer" />
+        <attr name="stopable" format="boolean" />
+        <attr name="stoptime" format="integer" />
+        <attr name="scrolltimes" format="integer" />
+        <attr name="verticalspace" format="integer" />
+    </declare-styleable>
+
+</resources>
